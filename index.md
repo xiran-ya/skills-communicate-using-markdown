@@ -13,3 +13,7 @@ void run() {
   System.out.println("Hello World");
 }
 ```
+
+- [x] Mathmatics
+- [ ] Physics
+- [ ] Philosophy
